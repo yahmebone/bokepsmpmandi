@@ -1,2 +1,1 @@
-# bokepsmpmandi
-bokepsmpmandi
+# [bokepsmpmandi](https://bokepsmpmandi.pages.dev)
